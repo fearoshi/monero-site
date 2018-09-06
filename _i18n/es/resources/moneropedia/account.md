@@ -4,10 +4,11 @@ terms: ["account", "accounts", "wallet", "wallets"]
 summary: "similar in function to a bank account, contains all of your sent and received transactions"
 ---
 
-{% include untranslated.html %}
-### The Basics
 
-Those familiar with Monero's predecessors will be more familiar with the term *wallet* to describe this. In Monero we call this an account, and it is a private account owned and operated by a Monero user.
+### The Basics
+Los que estan familiarizados con los predecesores de Monero estarán más familiarizados con el término * billetera*. En Monero llamamos esto una cuenta. Es una cuenta privada que pertenece y es operada por un usuario de Monero. 
+
+Su cuenta contiene todas las @transacciones de Monero que has enviado y recibido.
 
 Your account contains all of the Monero @transactions you have sent and received. Your account balance is a sum of all the Monero you've received, less the Monero you've sent. When using Monero you may notice that your account has two balances, a locked and an unlocked balance. The unlocked balance contains funds that can be spent immediately, and the locked balance contains funds that you can't spend right now. You may receive a transaction that has an @unlock-time set, or you may have sent some Monero and are waiting for the @change to come back to your wallet, both situations that could lead to those funds being locked for a time.
 
