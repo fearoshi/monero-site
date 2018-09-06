@@ -5,14 +5,13 @@ summary: "similar in function to a bank account, contains all of your sent and r
 ---
 
 
-### The Basics
-Los que estan familiarizados con los predecesores de Monero estarán más familiarizados con el término * billetera*. En Monero llamamos esto una cuenta. Es una cuenta privada que pertenece y es operada por un usuario de Monero. 
+### Los Basicos
 
-Su cuenta contiene todas las @transacciones de Monero que has enviado y recibido.
+Los que estan familiarizados con los predecesores de Monero estarán más familiarizados con el término *billetera*. En Monero llamamos esto una cuenta. Es una cuenta privada que pertenece y es operada por un usuario de Monero. 
 
-Your account contains all of the Monero @transactions you have sent and received. Your account balance is a sum of all the Monero you've received, less the Monero you've sent. When using Monero you may notice that your account has two balances, a locked and an unlocked balance. The unlocked balance contains funds that can be spent immediately, and the locked balance contains funds that you can't spend right now. You may receive a transaction that has an @unlock-time set, or you may have sent some Monero and are waiting for the @change to come back to your wallet, both situations that could lead to those funds being locked for a time.
+Su cuenta contiene todas las @transacciones de Monero que has enviado y recibido. El saldo de su cuenta es la suma de todo el Monero que has recibdo, menos el Monero que has enviado. Al usar Monero, vas a notar que su cuenta tiene dos saldos, un saldo bloqueado y uno desbloqueado. El saldo desbloqueado contiene fondos que puedes gastar de inmediato y el saldo bloqueado contiene fondos que no puede gastar en ese momento. Puede recibir una transacción que tiene un conjunto de @desbloqueo-tiempo, o tambien pudo haber enviado Monero y estas esperando que el @cambio vuelva a su billetera. Ambas situaciones podrian casuar que estos fondos se bloqueen por un tiempo. 
 
-A key difference between traditional electronic currency and Monero is that your account resides only under your control, normally on your computer, and cannot be accessed by anyone else if you [practice good security](#practicing-good-security).
+Una diferencia clave entre tradicional moneda electrónica y Monero es que su cuenta reside solamente bajo su control, normalmente en su computadora. Nadie va a poder acceder su cuenta si [practica buena seguridad](#practicando-buena-seguridad).
 
 ### Multiple Accounts
 
