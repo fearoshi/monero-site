@@ -13,9 +13,9 @@ Su cuenta contiene todas las @transacciones de Monero que has enviado y recibido
 
 Una diferencia clave entre tradicional moneda electrónica y Monero es que su cuenta reside solamente bajo su control, normalmente en su computadora. Nadie va a poder acceder su cuenta si [practica buena seguridad](#practicando-buena-seguridad).
 
-### Multiple Accounts
+### Multiples Cuentas
 
-There are no costs attached to creating a Monero account, and there are no fees charged except for individual @transaction fees that go to @miners.
+No hay costos asociados a crear una cuenta de Monero y tambien no hay tarifas, excepto tarifas de transacciones individuales que van a @miners.
 
 This means that individuals can easily create a Monero account for themselves as well as a joint account to share with their partner, and individual accounts for their children. Similarly, a business could create separate accounts for each division or group. Since Monero's @transaction fees are quite low, moving funds between accounts is not an expensive exercise.
 
